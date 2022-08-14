@@ -3,8 +3,6 @@ gitConfig:
   user.email: 25894545+teamchong@users.noreply.github.com
   user.name: teamchong
   core.excludesfile: ~/.gitignore_global
-tasks:
-  - command: watch -n 3600 gp timeout extend
 vscode:
   extensions:
     - "streetsidesoftware.code-spell-checker"
