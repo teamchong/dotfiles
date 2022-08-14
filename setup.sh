@@ -1,3 +1,6 @@
+git config --global user.email "25894545+teamchong@users.noreply.github.com"
+git config --global user.name "teamchong"
+git config --global core.excludesfile "~/.gitignore_global"
 cat << EOF > .gitpod.yml
 gitConfig:
   user.email: 25894545+teamchong@users.noreply.github.com
