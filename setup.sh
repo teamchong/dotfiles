@@ -34,7 +34,7 @@ vscode:
     - "redhat.vscode-xml"
     - "arcanis.vscode-zipfs"
 EOF
-cat << EOF > ~/.dotfiles/.gitignore_global
+cat << EOF > ~/.gitignore_global
 .vscode
 .gitpod.yml
 .gitignore_global
