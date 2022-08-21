@@ -8,6 +8,7 @@ gitConfig:
   core.excludesfile: ~/.gitignore_global
 vscode:
   extensions:
+    - "znck.grammarly"
     - "DeepScan.vscode-deepscan"
     - "ms-azuretools.vscode-docker"
     - "dbaeumer.vscode-eslint"
