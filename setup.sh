@@ -18,7 +18,6 @@ vscode:
     - "nhoizey.gremlins"
     - "ms-vscode.vscode-typescript-next"
     - "ms-kubernetes-tools.vscode-kubernetes-tools"
-    - "shd101wyy.markdown-preview-enhanced"
     - "mintlify.document"
     - "IBM.output-colorizer
     - "esbenp.prettier-vscode"
