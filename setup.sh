@@ -23,7 +23,6 @@ vscode:
     - "rust-lang.rust-analyzer"
     - "redhat.vscode-xml"
     - "redhat.vscode-yaml"
-    - "arcanis.vscode-zipfs"
 EOF
 cat << EOF > ~/.gitignore_global
 .vscode
