@@ -15,7 +15,6 @@ vscode:
     - "tamasfe.even-better-toml"
     - "GitHub.copilot"
     - "eamodio.gitlens"
-    - "nhoizey.gremlins"
     - "ms-vscode.vscode-typescript-next"
     - "ms-kubernetes-tools.vscode-kubernetes-tools"
     - "mintlify.document"
