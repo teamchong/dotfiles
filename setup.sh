@@ -8,7 +8,6 @@ gitConfig:
   core.excludesfile: ~/.gitignore_global
 vscode:
   extensions:
-    - "streetsidesoftware.code-spell-checker"
     - "DeepScan.vscode-deepscan"
     - "ms-azuretools.vscode-docker"
     - "dbaeumer.vscode-eslint"
